@@ -10,7 +10,8 @@ module.exports = {
         figtree: "Figtree"
       },
       boxShadow:{
-        newShadow:"8px 8px 0px 0px  hsl(0, 0%, 7%)"
+        newShadow:"8px 8px 0px 0px  hsl(0, 0%, 7%)",
+        newShadowHover: "14px 14px 0px 0px hsl(0, 0%, 7%)"
       }
     },
   },
