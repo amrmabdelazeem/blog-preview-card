@@ -8,6 +8,9 @@ module.exports = {
       },
       fontFamily:{
         figtree: "Figtree"
+      },
+      boxShadow:{
+        newShadow:"8px 8px 0px 0px  hsl(0, 0%, 7%)"
       }
     },
   },
