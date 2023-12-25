@@ -7,7 +7,6 @@ This is [Blog preview card ](https://www.frontendmentor.io/challenges/blog-previ
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -24,6 +23,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+
 - Mobile <br/>
 ![mobile](screenshots/mobile.png)
 
@@ -33,8 +33,6 @@ Users should be able to:
 - Hovering States
 ![active-states](screenshots/active-states.jpg)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -43,6 +41,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - TailwindCSS
+
 ### Useful resources
 
 - [TailwindCSS](https://tailwindcss.com/)
